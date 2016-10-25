@@ -1,0 +1,4 @@
+C:\GitHub\GitHub\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\GitHub\GitHub\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\GitHub\GitHub\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\GitHub\GitHub\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb

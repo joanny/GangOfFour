@@ -1,0 +1,15 @@
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\ThreadingComponent\CircularProgressBar.baml
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\MainWindow.baml
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\ThreadingComponent\CircularProgressBar.g.cs
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\App.g.cs
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\GitHub\GitHub\DesignPattern\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref

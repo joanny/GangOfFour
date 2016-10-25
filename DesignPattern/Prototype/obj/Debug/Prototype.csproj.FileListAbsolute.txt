@@ -1,0 +1,5 @@
+C:\GitHub\GitHub\DesignPattern\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\GitHub\GitHub\DesignPattern\Prototype\bin\Debug\Prototype.exe
+C:\GitHub\GitHub\DesignPattern\Prototype\bin\Debug\Prototype.pdb
+C:\GitHub\GitHub\DesignPattern\Prototype\obj\Debug\Prototype.exe
+C:\GitHub\GitHub\DesignPattern\Prototype\obj\Debug\Prototype.pdb

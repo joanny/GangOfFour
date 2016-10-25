@@ -4,3 +4,7 @@ c:\users\joanny\documents\visual studio 2013\Projects\DesignPattern\AbstractFact
 c:\users\joanny\documents\visual studio 2013\Projects\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
 C:\Users\joanny\documents\visual studio 2013\Projects\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe.CodeAnalysisLog.xml
 C:\Users\joanny\documents\visual studio 2013\Projects\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe.lastcodeanalysissucceeded
+C:\GitHub\GitHub\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\GitHub\GitHub\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\GitHub\GitHub\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\GitHub\GitHub\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

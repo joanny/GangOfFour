@@ -1,0 +1,5 @@
+C:\GitHub\GitHub\DesignPattern\Builder\bin\Release\Builder.exe
+C:\GitHub\GitHub\DesignPattern\Builder\bin\Release\Builder.pdb
+C:\GitHub\GitHub\DesignPattern\Builder\obj\Release\Builder.exe
+C:\GitHub\GitHub\DesignPattern\Builder\obj\Release\Builder.pdb
+C:\GitHub\GitHub\DesignPattern\Builder\obj\Release\Builder.csprojResolveAssemblyReference.cache
