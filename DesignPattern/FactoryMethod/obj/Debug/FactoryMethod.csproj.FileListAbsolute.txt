@@ -2,3 +2,7 @@ C:\GitHub\GitHub\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe
 C:\GitHub\GitHub\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
 C:\GitHub\GitHub\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\GitHub\GitHub\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
