@@ -2,3 +2,7 @@ C:\GitHub\GitHub\DesignPattern\AbstractFactory\bin\Release\AbstractFactory.exe
 C:\GitHub\GitHub\DesignPattern\AbstractFactory\bin\Release\AbstractFactory.pdb
 C:\GitHub\GitHub\DesignPattern\AbstractFactory\obj\Release\AbstractFactory.exe
 C:\GitHub\GitHub\DesignPattern\AbstractFactory\obj\Release\AbstractFactory.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Release\AbstractFactory.exe
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Release\AbstractFactory.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\bin\Release\AbstractFactory.exe
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\bin\Release\AbstractFactory.pdb

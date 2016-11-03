@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{82668778-1747-4B3D-A7C0-2C0B2E8290AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{E922C6E3-038D-4F78-B08B-14A075DC6ADC}"
@@ -12,6 +10,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{2049B754-1BEC-4EB8-9BA1-5A35E602AA8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{7A433E66-1723-44AD-8CF6-1D65DF44B3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{2EE77ECA-0BD4-4728-9441-2098D0E92A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{5852FDD1-6BBE-45A5-B1A5-113066748F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{59147D6A-F36A-45F4-A515-E09A14DBF931}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,18 @@ Global
 		{7A433E66-1723-44AD-8CF6-1D65DF44B3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A433E66-1723-44AD-8CF6-1D65DF44B3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A433E66-1723-44AD-8CF6-1D65DF44B3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE77ECA-0BD4-4728-9441-2098D0E92A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE77ECA-0BD4-4728-9441-2098D0E92A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE77ECA-0BD4-4728-9441-2098D0E92A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE77ECA-0BD4-4728-9441-2098D0E92A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5852FDD1-6BBE-45A5-B1A5-113066748F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5852FDD1-6BBE-45A5-B1A5-113066748F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5852FDD1-6BBE-45A5-B1A5-113066748F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5852FDD1-6BBE-45A5-B1A5-113066748F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59147D6A-F36A-45F4-A515-E09A14DBF931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59147D6A-F36A-45F4-A515-E09A14DBF931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59147D6A-F36A-45F4-A515-E09A14DBF931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59147D6A-F36A-45F4-A515-E09A14DBF931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

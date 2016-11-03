@@ -5,7 +5,6 @@ C:\GitHub\GitHub\DesignPattern\Prototype\obj\Debug\Prototype.exe
 C:\GitHub\GitHub\DesignPattern\Prototype\obj\Debug\Prototype.pdb
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Prototype\bin\Debug\Prototype.exe
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Prototype\bin\Debug\Prototype.pdb
-C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Prototype\obj\Debug\Prototype.exe
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Prototype\obj\Debug\Prototype.pdb
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Prototype\bin\Debug\StyleCop.CSharp.dll
