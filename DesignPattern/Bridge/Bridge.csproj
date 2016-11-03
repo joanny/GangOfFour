@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{82668778-1747-4B3D-A7C0-2C0B2E8290AA}</ProjectGuid>
+    <ProjectGuid>{5852FDD1-6BBE-45A5-B1A5-113066748F3C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GangOfFour</RootNamespace>
-    <AssemblyName>AbstractFactory</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <RootNamespace>Bridge</RootNamespace>
+    <AssemblyName>Bridge</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -47,20 +47,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animals\Antilope.cs" />
-    <Compile Include="Continent\AfricaFactory.cs" />
-    <Compile Include="Continent\AmericaFactory.cs" />
-    <Compile Include="ContinentFactory.cs" />
-    <Compile Include="Regime\Herbivore.cs" />
-    <Compile Include="Regime\Carnivore.cs" />
-    <Compile Include="AnimalWorld.cs" />
-    <Compile Include="Animals\Lion.cs" />
-    <Compile Include="Animals\Wildebeest.cs" />
+    <Compile Include="Abstraction.cs" />
+    <Compile Include="ConcreteImplementorA.cs" />
+    <Compile Include="ConcreteImplementorB.cs" />
+    <Compile Include="Implementor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Animals\Wolf.cs" />
+    <Compile Include="RefinedAbstraction.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

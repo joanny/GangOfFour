@@ -8,3 +8,6 @@ C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\bin\Debug\Buil
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\obj\Debug\Builder.exe
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\obj\Debug\Builder.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\bin\Debug\StyleCop.dll
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache

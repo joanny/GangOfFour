@@ -6,3 +6,5 @@ C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Singleton\bin\Debug\Si
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Singleton\bin\Debug\Singleton.pdb
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Singleton\obj\Debug\Singleton.exe
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Singleton\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\Singleton\bin\Debug\StyleCop.dll

@@ -8,8 +8,10 @@ C:\GitHub\GitHub\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
 C:\GitHub\GitHub\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
 C:\GitHub\GitHub\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\GitHub\GitHub\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
-C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
-C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
 C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Joanny\Documents\GitHub\GangOfFour\DesignPattern\AbstractFactory\bin\Debug\StyleCop.dll
