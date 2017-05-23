@@ -46,16 +46,18 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+obj/Debug/
 Debug/
 bin/
-obj/
+obj/*
 obj/Debug/Singleton.exe
 *.pdb
 *.suo
 *.user
 *.cache
-.exe
+*.exe
+*.txt
+
 
 DesignPattern/Prototype/obj/Debug/Prototype.exe
 *.exe
